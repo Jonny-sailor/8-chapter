@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\dist\git\8-chapter\test\test\source.cpp(40): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+c:\dist\git\8-chapter\test\test\source.cpp(40): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Test.vcxproj -> C:\dist\Git\8-chapter\Test\Debug\Test.exe
